@@ -16,7 +16,7 @@ Instituto de Tecnología e Ingeniería — **Universidad Nacional de Hurlingham 
 | Rol | Nombre y Apellido | DNI | Carrera |
 | :--- | :--- | :--- | :--- |
 | **Integrante 1** | *Mariela Alejandra Oberg* | *26591452* | *Tecnicatura Universitaria en Inteligencia Artificial* |
-| **Integrante 2** | *Talia Rodrigues* | *37.141.532* | *Licenciatura en Desarrollo de Videojuegos y Simulaciones* |
+| **Integrante 2** | *Talia Rodrigues* | *37141532* | *Licenciatura en Desarrollo de Videojuegos y Simulaciones* |
 | **Integrante 3** | *Esmeralda jimenez* | *94430052* | * Programación de videojuegos* |
 | **Integrante 4** | *Lorena Olivella* | *31045365* | *Tecnicatura Universitaria en Inteligencia Artificial* |
 
